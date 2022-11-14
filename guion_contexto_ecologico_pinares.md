@@ -25,11 +25,11 @@ Esta sesión tiene los siguientes objetivos:
 
 Durante esta sesión se sigue un hilo argumental con los siguientes elementos:
 
-+ Caracterización de los pinares de repoblación desde una perspectiva ecológica y con la filosofía de "novel ecosystems". Para describir estas formaciones se realiza una descripción histórica de su génesis y evolución. [Esta](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/raw/2022-2023/presentacion/generalidades_pinares_reboblacion.ppt) presentación contiene las ideas generales a tener en cuenta. Para saber más sobre los pinares puedes leer la bibliografía contenida en [esta](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/tree/2022-2023/bibliografia) carpeta. 
++ Caracterización de los pinares de repoblación desde una perspectiva ecológica y con la filosofía de "novel ecosystems". Para describir estas formaciones se realiza una descripción histórica de su génesis y evolución. [Esta](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/raw/2022_2023/presentacion/generalidades_pinares_reboblacion.ppt) presentación contiene las ideas generales a tener en cuenta. Para saber más sobre los pinares puedes leer la bibliografía contenida en [esta](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/tree/2022_2023/bibliografia) carpeta. 
 
 + En el siguiente paso se plantea la pregunta a abordar: ¿En qué lugares hemos de intervenir (reduciendo la densidad del pinar) para maximizar la probabilidad de regeneración de encinas bajo el pinar de repoblación?
 
-+ Ahora se hace un breve ejercicio en el que los estudiantes proponen variables que deberíamos tener en cuenta para responder a la pregunta. En este curso se propusieron las variables que se pueden observar en [este](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/raw/2022-2023/presentacion/lluvia_ideas_pinares.xmind) mapa mental (visible con el software [Xmind](https://www.xmind.net/)).
++ Ahora se hace un breve ejercicio en el que los estudiantes proponen variables que deberíamos tener en cuenta para responder a la pregunta. En este curso se propusieron las variables que se pueden observar en [este](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/raw/2022_2023/presentacion/lluvia_ideas_pinares.xmind) mapa mental (visible con el software [Xmind](https://www.xmind.net/)).
 
   
 
