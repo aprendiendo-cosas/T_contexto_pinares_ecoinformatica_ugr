@@ -1,3 +1,6 @@
+---
+output: html_document
+---
 # Sesión sobre generalidades de los pinares de repoblación
 
 
