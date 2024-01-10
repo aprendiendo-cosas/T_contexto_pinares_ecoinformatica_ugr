@@ -33,7 +33,7 @@ Para saber más sobre los pinares puedes leer la bibliografía contenida en [est
 
 + En el siguiente paso se plantea la problemática que presentan estos ecosistemas y se reflexiona sobre posibles estrategias de gestión. Surgen por tanto las preguntas ¿qué hacemos, dónde lo hacemos, y en función de qué? Para reflexionar sobre ello se hace un breve ejercicio en el que los estudiantes proponen variables que deberíamos tener en cuenta para responder a la pregunta. Las ideas recogidas en este ejercicio se muestran aquí:
 
-![image](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/raw/2023_2024/imagenes/Lluvia_ideas.pdf)
+![image](https://github.com/aprendiendo-cosas/T_contexto_pinares_ecoinformatica_ugr/tree/2023_2024/imagenes/Lluvia_ideas.pdf)
 
 + Por último, se plantea la pregunta que abordaremos durante el resto de la asignatura: ¿En qué lugares hemos de intervenir (reduciendo la densidad del pinar) para maximizar la probabilidad de regeneración de encinas bajo el pinar de repoblación?
 
